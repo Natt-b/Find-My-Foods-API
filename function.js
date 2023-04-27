@@ -33,7 +33,7 @@
 $.ajax({url:queryURL,method:"GET"}).then(function(response){
     console.log(response)
 })
-var queryURL = "https://v6.exchangerate-api.com/v6/a95c7e2da9d9bdf8f66b0c53/latest/USD"
+var queryURL = "https://v6.exchangerate-api.com/v6/7facb188381f869206c1f4bd/latest/USD"
 // var fromCurrencyCon = document.getElementById("prev-select")
 // var afterCurrencyCon = document.getElementById("after-select")
 
